@@ -1,0 +1,79 @@
+SOFTWARE LICENSE PLUGIN LISTER
+Version 1.0
+
+Copyright (c) 2026
+All rights reserved.
+
+This software, including any source code, binaries, assets, documentation, and
+related materials (collectively, the "Software"), is provided under this
+License.
+
+1. Grant of License
+
+Subject to the terms of this License, permission is granted to use the
+Software solely for personal use, testing, and internal evaluation. No
+commercial rights are granted under this License.
+
+2. Restrictions
+
+Unless expressly authorized in writing by the Author, you may not:
+
+- redistribute, publish, sublicense, rent, lease, or sell the Software;
+- provide the Software to third parties as a hosted or managed service;
+- modify, adapt, translate, reverse engineer, decompile, or create derivative
+  works from the Software, except where such restriction is prohibited by
+  applicable law;
+- remove, alter, or obscure any copyright or license notice;
+- use the Software in any commercial product, commercial service, or
+  revenue-generating activity.
+
+3. Commercial Licensing
+
+Any commercial use of the Software requires a separate commercial license from
+the Author. The Author may offer commercial, professional, or other paid
+editions of the Software under separate terms.
+
+4. Ownership
+
+The Software is licensed, not sold. All rights, title, and interest in and to
+the Software remain exclusively with the Author.
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY,
+RELIABILITY, OR THAT THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION OR ERROR.
+
+6. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE
+LIABLE FOR ANY CLAIM, DEMAND, ACTION, DAMAGE, LOSS, COST, EXPENSE, OR OTHER
+LIABILITY OF ANY KIND, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR OTHERWISE, ARISING FROM OR RELATED TO THE
+SOFTWARE, ITS USE, MISUSE, INABILITY TO USE, OR RESULTS PRODUCED BY THE
+SOFTWARE.
+
+7. Use at Your Own Risk
+
+By using the Software, you acknowledge and agree that you use it entirely at
+your own risk and that you are solely responsible for any consequences arising
+from its installation, configuration, execution, or use.
+
+8. Termination
+
+This License terminates automatically if you breach any of its terms. Upon
+termination, you must stop using the Software and delete all copies in your
+possession or control.
+
+9. Future Versions
+
+This License applies only to Version 1.0 of the Software as distributed by the
+Author. The Author reserves the right to release future versions, updates,
+editions, or commercial versions of the Software under different license terms
+at any time.
+
+10. Entire Agreement
+
+This License constitutes the entire agreement regarding the Software and
+supersedes any prior statements or understandings relating to it.
