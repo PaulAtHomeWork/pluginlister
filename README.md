@@ -1,6 +1,8 @@
 # pluginlister
 VST plugin list tool
 
+https://www.reddit.com/r/MusicTheoryForDanceMu/
+
 ## 👋 Welcome
 
 Thank you for downloading **PluginLister**!
