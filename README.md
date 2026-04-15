@@ -3,6 +3,11 @@ VST plugin list tool
 
 https://www.reddit.com/r/MusicTheoryForDanceMu/
 
+
+![Plugin Lister screenshot](https://github.com/PaulAtHomeWork/pluginlister/blob/main/Plugin_lister_1.jpg)
+
+
+
 ## 👋 Welcome
 
 Thank you for downloading **PluginLister**!
