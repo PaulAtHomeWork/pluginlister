@@ -1,5 +1,5 @@
 # pluginlister
-VST plugin list tool
+VST3 plugin list tool
 
 https://www.reddit.com/r/MusicTheoryForDanceMu/
 
